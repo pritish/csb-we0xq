@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://pritish.github.io/csb-we0xq/static/css/main.ae704acf.chunk.css",
+    "main.js": "https://pritish.github.io/csb-we0xq/static/js/main.c5c27e0b.chunk.js",
+    "main.js.map": "https://pritish.github.io/csb-we0xq/static/js/main.c5c27e0b.chunk.js.map",
+    "runtime-main.js": "https://pritish.github.io/csb-we0xq/static/js/runtime-main.7345e3c5.js",
+    "runtime-main.js.map": "https://pritish.github.io/csb-we0xq/static/js/runtime-main.7345e3c5.js.map",
+    "static/js/2.c76ca8ed.chunk.js": "https://pritish.github.io/csb-we0xq/static/js/2.c76ca8ed.chunk.js",
+    "static/js/2.c76ca8ed.chunk.js.map": "https://pritish.github.io/csb-we0xq/static/js/2.c76ca8ed.chunk.js.map",
+    "index.html": "https://pritish.github.io/csb-we0xq/index.html",
+    "static/css/main.ae704acf.chunk.css.map": "https://pritish.github.io/csb-we0xq/static/css/main.ae704acf.chunk.css.map",
+    "static/js/2.c76ca8ed.chunk.js.LICENSE.txt": "https://pritish.github.io/csb-we0xq/static/js/2.c76ca8ed.chunk.js.LICENSE.txt",
+    "static/media/football-player.a50be831.svg": "https://pritish.github.io/csb-we0xq/static/media/football-player.a50be831.svg",
+    "static/media/soccer-player.81ccc3b3.svg": "https://pritish.github.io/csb-we0xq/static/media/soccer-player.81ccc3b3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7345e3c5.js",
+    "static/js/2.c76ca8ed.chunk.js",
+    "static/css/main.ae704acf.chunk.css",
+    "static/js/main.c5c27e0b.chunk.js"
+  ]
+}
